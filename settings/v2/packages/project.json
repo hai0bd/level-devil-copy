@@ -1,0 +1,12 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "height": 720,
+      "fitWidth": true,
+      "width": 1280,
+      "fitHeight": true
+    }
+  },
+  "layer": []
+}
